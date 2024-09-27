@@ -1,3 +1,5 @@
+*NOTE* Encountered an error uploading Django, pip and other files to this repository. App may not work for you if cloned. Feel free to contact me .
+
 # Learning Log
 # Overview
 Welcome to the Learning Log project! This Django-based web application serves as an online journal system, enabling users to document and track the information they've learned about various topics. Whether you're a student, professional, or lifelong learner, Learning Log provides a structured and user-friendly platform to organize your knowledge and monitor your learning progress.
